@@ -27,11 +27,21 @@ import reportWebVitals from "./reportWebVitals";
 // }, 1000);
 
 /**Chapter_05 Code */
-import CommentList from "./Chapter_05/CommentList";
+// import CommentList from "./Chapter_05/CommentList";
+
+// ReactDOM.render(
+//     <React.StrictMode>
+//         <CommentList></CommentList>
+//     </React.StrictMode>,
+//     document.getElementById("root")
+// );
+
+/**Chapter_06 Code */
+import NotificationsList from "./Chapter_06/NotificationList";
 
 ReactDOM.render(
     <React.StrictMode>
-        <CommentList></CommentList>
+        <NotificationsList></NotificationsList>
     </React.StrictMode>,
     document.getElementById("root")
 );
