@@ -37,11 +37,21 @@ import reportWebVitals from "./reportWebVitals";
 // );
 
 /**Chapter_06 Code */
-import NotificationsList from "./Chapter_06/NotificationList";
+// import NotificationsList from "./Chapter_06/NotificationList";
+
+// ReactDOM.render(
+//     <React.StrictMode>
+//         <NotificationsList></NotificationsList>
+//     </React.StrictMode>,
+//     document.getElementById("root")
+// );
+
+/**Chapter_07 Code */
+import Accommodate from "./Chapter_07/Accommondata";
 
 ReactDOM.render(
     <React.StrictMode>
-        <NotificationsList></NotificationsList>
+        <Accommodate></Accommodate>
     </React.StrictMode>,
     document.getElementById("root")
 );
