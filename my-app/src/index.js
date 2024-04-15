@@ -9,13 +9,14 @@ import reportWebVitals from "./reportWebVitals";
 // import CommentList from "./Chapter_05/CommentList";
 // import NotificationsList from "./Chapter_06/NotificationList";
 // import Accommodate from "./Chapter_07/Accommondata";
+// import ConfirmButton from "./Chapter_08/ConfirmButton";
 
-/**Chapter_08 Code */
-import ConfirmButton from "./Chapter_08/ConfirmButton";
+/**Chapter_09 Code */
+import LandingPage from "./Chapter_09/LandingPage";
 
 ReactDOM.render(
     <React.StrictMode>
-        <ConfirmButton></ConfirmButton>
+        <LandingPage></LandingPage>
     </React.StrictMode>,
     document.getElementById("root")
 );
