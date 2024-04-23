@@ -14,12 +14,12 @@ import reportWebVitals from "./reportWebVitals";
 // import AttendanceBook from "./Chapter_10/AttendanceBook";
 // import SignUp from "./Chapter_11/SignUp";
 
-/**Chapter_12 Code */
-import Calculator from "./Chapter_12/Calculator";
+/**Chapter_13 Code */
+import ProfileCard from "./Chapter_13/ProfileCard";
 
 ReactDOM.render(
     <React.StrictMode>
-        <Calculator></Calculator>
+        <ProfileCard></ProfileCard>
     </React.StrictMode>,
     document.getElementById("root")
 );
