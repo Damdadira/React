@@ -14,13 +14,14 @@ import reportWebVitals from "./reportWebVitals";
 // import AttendanceBook from "./Chapter_10/AttendanceBook";
 // import SignUp from "./Chapter_11/SignUp";
 // import ProfileCard from "./Chapter_13/ProfileCard";
+// import DarkOfLight from "./Chapter_14/DarkOrLight";
 
-/**Chapter_14 Code */
-import DarkOfLight from "./Chapter_14/DarkOrLight";
+/**Chapter_15 Code */
+import Blocks from "./Chapter_15/Blocks";
 
 ReactDOM.render(
     <React.StrictMode>
-        <DarkOfLight></DarkOfLight>
+        <Blocks></Blocks>
     </React.StrictMode>,
     document.getElementById("root")
 );
